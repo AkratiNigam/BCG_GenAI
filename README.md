@@ -27,3 +27,4 @@ This repository documents my participation in the Boston Consulting Group (BCG) 
 This simulation reinforced my ability to bridge AI innovation with business strategy, preparing me to contribute to projects where GenAI drives measurable impact. It also sharpened my consulting-style communication, ensuring technical insights are translated into clear, actionable recommendations for decision-makers.
 
 🏅 Certification
+[📄 View Certificate](BCG%20Genai.pdf)
